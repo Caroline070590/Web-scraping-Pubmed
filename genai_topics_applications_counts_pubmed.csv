@@ -1,0 +1,121 @@
+topic,application,year,count
+Generative AI,Diagnostic imaging (classification/detection),2021,513
+Generative AI,Diagnostic imaging (classification/detection),2022,559
+Generative AI,Diagnostic imaging (classification/detection),2023,590
+Generative AI,Diagnostic imaging (classification/detection),2024,779
+Generative AI,Diagnostic imaging (classification/detection),2025,866
+Generative AI,Imaging segmentation / reconstruction,2021,148
+Generative AI,Imaging segmentation / reconstruction,2022,153
+Generative AI,Imaging segmentation / reconstruction,2023,150
+Generative AI,Imaging segmentation / reconstruction,2024,227
+Generative AI,Imaging segmentation / reconstruction,2025,307
+Generative AI,Clinical decision support & risk prediction,2021,570
+Generative AI,Clinical decision support & risk prediction,2022,559
+Generative AI,Clinical decision support & risk prediction,2023,638
+Generative AI,Clinical decision support & risk prediction,2024,845
+Generative AI,Clinical decision support & risk prediction,2025,793
+Generative AI,Clinical text / EHR modelling,2021,70
+Generative AI,Clinical text / EHR modelling,2022,86
+Generative AI,Clinical text / EHR modelling,2023,80
+Generative AI,Clinical text / EHR modelling,2024,130
+Generative AI,Clinical text / EHR modelling,2025,184
+Generative AI,Drug discovery & design,2021,79
+Generative AI,Drug discovery & design,2022,107
+Generative AI,Drug discovery & design,2023,129
+Generative AI,Drug discovery & design,2024,208
+Generative AI,Drug discovery & design,2025,265
+Generative AI,Protein / biomolecule structure,2021,19
+Generative AI,Protein / biomolecule structure,2022,22
+Generative AI,Protein / biomolecule structure,2023,32
+Generative AI,Protein / biomolecule structure,2024,46
+Generative AI,Protein / biomolecule structure,2025,55
+Generative AI,Patient monitoring & physiological signals,2021,205
+Generative AI,Patient monitoring & physiological signals,2022,246
+Generative AI,Patient monitoring & physiological signals,2023,247
+Generative AI,Patient monitoring & physiological signals,2024,333
+Generative AI,Patient monitoring & physiological signals,2025,394
+Generative AI,Surgical planning / training & simulation,2021,5
+Generative AI,Surgical planning / training & simulation,2022,16
+Generative AI,Surgical planning / training & simulation,2023,14
+Generative AI,Surgical planning / training & simulation,2024,23
+Generative AI,Surgical planning / training & simulation,2025,56
+Digital twins,Diagnostic imaging (classification/detection),2021,12
+Digital twins,Diagnostic imaging (classification/detection),2022,11
+Digital twins,Diagnostic imaging (classification/detection),2023,24
+Digital twins,Diagnostic imaging (classification/detection),2024,35
+Digital twins,Diagnostic imaging (classification/detection),2025,69
+Digital twins,Imaging segmentation / reconstruction,2021,10
+Digital twins,Imaging segmentation / reconstruction,2022,4
+Digital twins,Imaging segmentation / reconstruction,2023,12
+Digital twins,Imaging segmentation / reconstruction,2024,10
+Digital twins,Imaging segmentation / reconstruction,2025,22
+Digital twins,Clinical decision support & risk prediction,2021,5
+Digital twins,Clinical decision support & risk prediction,2022,9
+Digital twins,Clinical decision support & risk prediction,2023,15
+Digital twins,Clinical decision support & risk prediction,2024,38
+Digital twins,Clinical decision support & risk prediction,2025,91
+Digital twins,Clinical text / EHR modelling,2021,2
+Digital twins,Clinical text / EHR modelling,2022,3
+Digital twins,Clinical text / EHR modelling,2023,6
+Digital twins,Clinical text / EHR modelling,2024,21
+Digital twins,Clinical text / EHR modelling,2025,27
+Digital twins,Drug discovery & design,2021,0
+Digital twins,Drug discovery & design,2022,3
+Digital twins,Drug discovery & design,2023,3
+Digital twins,Drug discovery & design,2024,11
+Digital twins,Drug discovery & design,2025,27
+Digital twins,Protein / biomolecule structure,2021,0
+Digital twins,Protein / biomolecule structure,2022,0
+Digital twins,Protein / biomolecule structure,2023,2
+Digital twins,Protein / biomolecule structure,2024,1
+Digital twins,Protein / biomolecule structure,2025,3
+Digital twins,Patient monitoring & physiological signals,2021,8
+Digital twins,Patient monitoring & physiological signals,2022,15
+Digital twins,Patient monitoring & physiological signals,2023,19
+Digital twins,Patient monitoring & physiological signals,2024,42
+Digital twins,Patient monitoring & physiological signals,2025,81
+Digital twins,Surgical planning / training & simulation,2021,7
+Digital twins,Surgical planning / training & simulation,2022,5
+Digital twins,Surgical planning / training & simulation,2023,6
+Digital twins,Surgical planning / training & simulation,2024,19
+Digital twins,Surgical planning / training & simulation,2025,35
+Federated learning,Diagnostic imaging (classification/detection),2021,20
+Federated learning,Diagnostic imaging (classification/detection),2022,29
+Federated learning,Diagnostic imaging (classification/detection),2023,54
+Federated learning,Diagnostic imaging (classification/detection),2024,73
+Federated learning,Diagnostic imaging (classification/detection),2025,103
+Federated learning,Imaging segmentation / reconstruction,2021,6
+Federated learning,Imaging segmentation / reconstruction,2022,8
+Federated learning,Imaging segmentation / reconstruction,2023,28
+Federated learning,Imaging segmentation / reconstruction,2024,31
+Federated learning,Imaging segmentation / reconstruction,2025,43
+Federated learning,Clinical decision support & risk prediction,2021,8
+Federated learning,Clinical decision support & risk prediction,2022,9
+Federated learning,Clinical decision support & risk prediction,2023,19
+Federated learning,Clinical decision support & risk prediction,2024,25
+Federated learning,Clinical decision support & risk prediction,2025,44
+Federated learning,Clinical text / EHR modelling,2021,10
+Federated learning,Clinical text / EHR modelling,2022,5
+Federated learning,Clinical text / EHR modelling,2023,24
+Federated learning,Clinical text / EHR modelling,2024,25
+Federated learning,Clinical text / EHR modelling,2025,56
+Federated learning,Drug discovery & design,2021,5
+Federated learning,Drug discovery & design,2022,1
+Federated learning,Drug discovery & design,2023,5
+Federated learning,Drug discovery & design,2024,5
+Federated learning,Drug discovery & design,2025,16
+Federated learning,Protein / biomolecule structure,2021,0
+Federated learning,Protein / biomolecule structure,2022,0
+Federated learning,Protein / biomolecule structure,2023,0
+Federated learning,Protein / biomolecule structure,2024,0
+Federated learning,Protein / biomolecule structure,2025,0
+Federated learning,Patient monitoring & physiological signals,2021,7
+Federated learning,Patient monitoring & physiological signals,2022,14
+Federated learning,Patient monitoring & physiological signals,2023,18
+Federated learning,Patient monitoring & physiological signals,2024,28
+Federated learning,Patient monitoring & physiological signals,2025,48
+Federated learning,Surgical planning / training & simulation,2021,0
+Federated learning,Surgical planning / training & simulation,2022,0
+Federated learning,Surgical planning / training & simulation,2023,0
+Federated learning,Surgical planning / training & simulation,2024,1
+Federated learning,Surgical planning / training & simulation,2025,7
